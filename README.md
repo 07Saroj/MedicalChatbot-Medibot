@@ -1,7 +1,5 @@
 # MedicalChatbot-Medibot
 A chatbot that suggests the medical department for the give symptoms provided by the user
-# 🩺 Medical Chatbot for Symptom Analysis
-
 This project is a virtual assistant that suggests the appropriate medical department based on user symptoms using IBM Watson Assistant and watsonx.ai.
 
 ## 🔧 Features
