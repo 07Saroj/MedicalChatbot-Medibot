@@ -11,8 +11,6 @@ This project is a virtual assistant that suggests the appropriate medical depart
 ## 📸 Screenshots
 See `/screenshots` folder for chat interactions and UI.
 
-## 🌐 Live Demo
-[Link to your hosted website] (if any)
 
 ## 🛠 Built With
 - IBM Watson Assistant
