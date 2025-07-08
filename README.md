@@ -12,7 +12,7 @@ This project is a virtual assistant that suggests the appropriate medical depart
 See `/screenshots` folder for chat interactions and UI.
 
 ## 🌐 Live Demo
-[Link to your hosted website] (if any)
+https://07saroj.github.io/MedicalChatbot-Medibot/
 
 ## 🛠 Built With
 - IBM Watson Assistant
